@@ -1,0 +1,134 @@
+,Country,Happiness Rank,Happiness Score,gini,grade_gini
+0,Norway,1,7.537000179,25.8,low
+1,Denmark,2,7.521999836,24.0,low
+2,Iceland,3,7.504000187000001,no Data,no Data
+3,Switzerland,4,7.493999958,33.7,low
+4,Finland,5,7.468999863,26.9,low
+5,Netherlands,6,7.376999855,30.9,low
+6,Canada,7,7.315999985,32.6,low
+7,New Zealand,8,7.31400013,36.2,low
+8,Sweden,9,7.28399992,25.0,low
+9,Australia,10,7.28399992,30.5,low
+10,Israel,11,7.212999821,39.2,middle
+11,Costa Rica,12,7.078999996,50.7,high
+12,Austria,13,7.006000042,26.0,low
+13,United States of America,14,6.993000031,48.0,middle
+14,Ireland,15,6.977000237,34.3,low
+15,Germany,16,6.951000214,28.3,low
+16,Belgium,17,6.890999794,33.0,low
+17,Luxembourg,18,6.862999916000001,30.8,low
+18,Chile,20,6.65199995,52.1,high
+19,United Arab Emirates,21,6.647999763,no Data,no Data
+20,Brazil,22,6.635000229,54.7,high
+21,Czech Republic,23,6.609000206,26.0,low
+22,Argentina,24,6.598999977,44.5,middle
+23,Mexico,25,6.578000069,47.0,middle
+24,Singapore,26,6.5720000270000005,48.1,middle
+25,Malta,27,6.52699995,no Data,no Data
+26,Uruguay,28,6.453999996,39.7,middle
+27,Guatemala,29,6.453999996,55.9,high
+28,Panama,30,6.452000141,51.9,high
+29,France,31,6.441999912000001,32.7,low
+30,Thailand,32,6.423999786,40.0,middle
+31,Spain,34,6.402999877999999,34.7,low
+32,Qatar,35,6.375,41.1,middle
+33,Colombia,36,6.3569998739999996,55.9,high
+34,Saudi Arabia,37,6.343999863,no Data,no Data
+35,Trinidad and Tobago,38,6.168000221000001,40.3,middle
+36,Kuwait,39,6.105000018999999,no Data,no Data
+37,Slovakia,40,6.09800005,26.0,low
+38,Bahrain,41,6.086999893,no Data,no Data
+39,Malaysia,42,6.084000111,46.2,middle
+40,Nicaragua,43,6.071000099,40.5,middle
+41,Ecuador,44,6.007999897,49.3,middle
+42,El Salvador,45,6.002999783,48.3,middle
+43,Poland,46,5.97300005,34.1,low
+44,Uzbekistan,47,5.971000195,36.7,low
+45,Italy,48,5.964000225,36.0,low
+46,Belize,50,5.9559998510000005,53.1,high
+47,Japan,51,5.920000076,38.1,middle
+48,Lithuania,52,5.90199995,37.6,middle
+49,Algeria,53,5.872000217,35.3,low
+50,Latvia,54,5.849999905,36.6,low
+51,Romania,57,5.8249998089999995,30.0,low
+52,Turkmenistan,59,5.8220000270000005,40.8,middle
+53,Kazakhstan,60,5.818999767,29.0,low
+54,Slovenia,62,5.757999897,31.2,low
+55,Peru,63,5.715000152999999,48.1,middle
+56,Mauritius,64,5.629000187000001,no Data,no Data
+57,Cyprus,65,5.620999812999999,no Data,no Data
+58,Estonia,66,5.611000061,36.0,low
+59,Belarus,67,5.568999767,26.5,low
+60,Libya,68,5.525000095,no Data,no Data
+61,Turkey,69,5.5,39.0,middle
+62,Paraguay,70,5.493000031,52.4,high
+63,Philippines,72,5.429999828,43.0,middle
+64,Serbia,73,5.394999981000001,27.8,low
+65,Jordan,74,5.335999966,35.4,low
+66,Hungary,75,5.323999882,31.2,low
+67,Jamaica,76,5.31099987,45.5,middle
+68,Croatia,77,5.293000221000001,33.7,low
+69,China,79,5.2729997630000005,47.0,middle
+70,Pakistan,80,5.269000053,30.0,low
+71,Indonesia,81,5.262000083999999,34.0,low
+72,Montenegro,83,5.236999989,30.0,low
+73,Morocco,84,5.235000134,40.9,middle
+74,Azerbaijan,85,5.234000206,33.7,low
+75,Dominican Republic,86,5.230000018999999,47.2,middle
+76,Greece,87,5.2270002369999995,34.3,low
+77,Lebanon,88,5.224999905,no Data,no Data
+78,Portugal,89,5.195000172,38.5,middle
+79,Bosnia and Herzegovina,90,5.18200016,36.2,low
+80,Honduras,91,5.181000233,57.0,high
+81,Somalia,93,5.151000023,no Data,no Data
+82,Nigeria,95,5.073999882,48.8,middle
+83,Tajikistan,96,5.040999889,30.8,low
+84,Bhutan,97,5.011000156000001,38.1,middle
+85,Kyrgyzstan,98,5.004000187,36.2,low
+86,Nepal,99,4.961999893,32.8,low
+87,Mongolia,100,4.954999924,36.5,low
+88,South Africa,101,4.828999996,63.1,high
+89,Tunisia,102,4.804999828,41.4,middle
+90,Egypt,104,4.735000134,30.8,low
+91,Bulgaria,105,4.714000225,28.2,low
+92,Sierra Leone,106,4.709000111,42.5,middle
+93,Cameroon,107,4.695000172,38.9,middle
+94,Albania,109,4.644000053,34.5,low
+95,Bangladesh,110,4.607999802,32.1,low
+96,Namibia,111,4.573999882,63.9,high
+97,Kenya,112,4.552999973,47.7,middle
+98,Mozambique,113,4.5500001910000005,45.7,middle
+99,Myanmar,114,4.545000076,no Data,no Data
+100,Senegal,115,4.534999847,39.2,middle
+101,Zambia,116,4.513999939,54.6,high
+102,Iraq,117,4.497000217,30.9,low
+103,Gabon,118,4.465000153,41.5,middle
+104,Ethiopia,119,4.460000038,29.8,low
+105,Sri Lanka,120,4.440000057,40.3,middle
+106,Armenia,121,4.375999928,30.9,low
+107,Mauritania,123,4.291999817,40.5,middle
+108,Mali,127,4.190000057,33.0,low
+109,Cambodia,129,4.168000221000001,37.9,middle
+110,Ghana,131,4.1199998860000004,42.8,middle
+111,Ukraine,132,4.096000195,26.4,low
+112,Uganda,133,4.0809998510000005,44.3,middle
+113,Burkina Faso,134,4.032000065,39.8,middle
+114,Niger,135,4.027999878,34.6,low
+115,Malawi,136,3.970000029,39.0,middle
+116,Chad,137,3.9360001089999996,39.8,middle
+117,Zimbabwe,138,3.875,no Data,no Data
+118,Lesotho,139,3.808000088,52.5,high
+119,Angola,140,3.7950000760000004,58.6,high
+120,Afghanistan,141,3.79399991,27.8,low
+121,Botswana,142,3.766000032,61.0,high
+122,Benin,143,3.657000065,38.6,middle
+123,Madagascar,144,3.644000053,44.1,middle
+124,Haiti,145,3.6029999260000003,59.2,high
+125,Yemen,146,3.592999935,37.7,middle
+126,South Sudan,147,3.59100008,45.5,middle
+127,South Sudan,147,3.59100008,45.5,middle
+128,Liberia,148,3.5329999919999997,38.2,middle
+129,Togo,150,3.4949998860000004,34.4,low
+130,Rwanda,151,3.4709999560000004,50.8,high
+131,Burundi,154,2.904999971,33.3,low
+132,Central African Republic,155,2.6930000780000003,56.3,high
