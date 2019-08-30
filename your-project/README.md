@@ -58,3 +58,4 @@ Include the links to your repository, slides and trello. Feel free to include an
 [Repository](https://github.com/naivm/Project-Week-3-Data-Thieves/)  
 [Slides](https://docs.google.com/presentation/d/1ivRzag6RJTTuxx4tbiU9L20Tr4DpGZ0FgeU4eMsglts/edit#slide=id.g418f182ad8_0_73)  
 [Trello](https://trello.com/b/ICMRFtMd/project-week-3)  
+[kaggle](https://www.kaggle.com/lindarit)  
