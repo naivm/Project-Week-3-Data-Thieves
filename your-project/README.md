@@ -1,9 +1,11 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Migration to become happy and equal?*
 
-*[Your Cohort, Campus & Date]*
+Ana André, Miguel Vian, Linda Ritter
+
+Data Squad 21, Lisbon 30.08.2019
 
 ## Content
 - [Project Description](#project-description)
