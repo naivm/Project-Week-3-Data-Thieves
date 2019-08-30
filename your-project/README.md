@@ -1,7 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*Migration to become happy and equal?*
+# Migration to become happy and equal?
 
 Ana André, Miguel Vian, Linda Ritter
 
