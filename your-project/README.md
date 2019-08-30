@@ -33,7 +33,7 @@ Check if the coutries that are in the top 10 and bottom ten of the happiness ind
 We got from Kaggle the world happiness report (https://www.kaggle.com/unsdsn/world-happiness) then we found an API that had some of the data for the Gini coefficient (https://restcountries.eu/rest/v2/alpha/countrycode?fields=gini;name) and we complemented it with the World bank API (http://api.worldbank.org/v2/country/all/indicator/SI.POV.GINI?format=json). The Migration data set was removed from a .csv file from the United Nations Population division. (https://www.un.org/en/development/desa/population/migration/data/estimates2/estimates17.asp)
 
 
-[Dataset]() 
+[Scripts]() 
 
 <a name="workflow"></a>
 
